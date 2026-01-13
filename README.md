@@ -1,4 +1,4 @@
-# 🛡️ ChurnGuard AI: Akıllı Müşteri Kayıp Yönetimi ve ROI Analizi
+# 🛡️ ChurnGuard AI: Akıllı Müşteri Kayıp Yönetimi 
 
 **ChurnGuard AI**, telekomünikasyon sektöründeki müşteri terk (churn) riskini minimize etmek için tasarlanmış, yapay zeka tabanlı bir **Karar Destek Sistemi**dir. Uygulama, sadece "kim gidecek?" sorusuna yanıt vermekle kalmaz, "onu tutmak için ne yapmalıyız ve bu bize ne kazandırır?" sorularına finansal verilerle yanıt verir.
 
